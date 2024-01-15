@@ -1,7 +1,12 @@
 [
   {
     "resellerName": "Aung Myo Linn",
-    "deviceid": "",
+    "deviceid": "4834b68a0d5dd70c",
     "extra": ""
+  },
+  {
+  "resellerName": "New 01",
+  "deviceid": "123456",
+  "extra": ""
   }
 ]
